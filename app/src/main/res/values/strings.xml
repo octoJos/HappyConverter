@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Happy Converter</string>
+    <string name="amount">0.00</string>
+    <string name="poso">Ποσό</string>
+    <string name="convert">HUF Ft -> €</string>
+    <string name="convKc">CZK Kc -> €</string>
+    <string name="euro">Ευρώ €:</string>
+    <string name="HungFt">Φιορίνι Ουγγ: </string>
+    <string name="CzechKc">Κορόνα Τσεχ:</string>
+    <string name="clear">Καθαρισμός</string>
+    <string name="prices">Ενδεικτικές Τιμές</string>
+</resources>
